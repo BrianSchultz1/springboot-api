@@ -2,7 +2,7 @@
 
 Introdução
 
-    Sistema de API RESTful do Spring Boot seguindo o Richardson Maturity Model.
+    Sistema de API RESTful do Spring Boot.
     
 Status:
 
